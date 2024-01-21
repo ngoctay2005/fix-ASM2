@@ -1,19 +1,21 @@
 .full {
+    width: 1200px;
     margin-left: auto;
     margin-right: auto;
 }
 
 .banner {
     display: grid;
-    grid-template-columns: 79% 7% 7% 7% 0%;
+    grid-template-columns: 76% 7% 7% 7% 3%;
 }
 
 .text2 {
     position: absolute;
-    top: 5px;
-    bottom: auto;
-    left: 500px;
+    top: auto;
+    bottom: 400px;
+    left: 350px;
     right: auto;
+   
     color: aqua;
 }
 
