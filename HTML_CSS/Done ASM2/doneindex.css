@@ -6,7 +6,7 @@
 
 .banner {
     display: grid;
-    grid-template-columns: 76% 7% 7% 7% 3%;
+    grid-template-columns: 75% 7% 7% 7% 4%;
 }
 
 .text2 {
