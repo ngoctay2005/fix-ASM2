@@ -5,13 +5,15 @@
 
 .banner {
     display: grid;
-    grid-template-columns: 79% 6% 6% 6% 3%;
+    grid-template-columns: 79% 7% 7% 7% 0%;
 }
 
 .text2 {
     position: absolute;
     top: 5px;
+    bottom: auto;
     left: 500px;
+    right: auto;
     color: aqua;
 }
 
@@ -64,5 +66,5 @@
 
 .step4 {
     display: grid;
-    grid-template-columns: 80% 20%;
+    grid-template-columns: 66.66% 33.33%;
 }
